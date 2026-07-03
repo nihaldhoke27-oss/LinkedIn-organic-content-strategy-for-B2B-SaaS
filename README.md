@@ -45,4 +45,5 @@ The project will include:
 - Repository initialized
 - GitHub connected
 - Research folders created
-- Ready to collect expert content
+- 10 industry experts documented in `research/sources.md`
+- Ready to collect LinkedIn posts and YouTube transcripts per expert
