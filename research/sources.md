@@ -184,6 +184,13 @@ For each expert, collect:
 ## Status
 
 - [x] 10 industry experts identified and documented
-- [ ] LinkedIn post collection in progress
-- [ ] YouTube transcript collection pending
-- [ ] Content pattern analysis pending
+- [x] LinkedIn post collection complete (10 expert profiles in `/research/linkedin-posts/`)
+- [x] YouTube transcript / video research complete (10 files in `/research/youtube-transcripts/`)
+- [x] Content pattern analysis complete (hooks, CTAs, formats documented for each expert)
+- [x] B2B SaaS content frameworks documented (`/research/other/b2b-saas-content-frameworks.md`)
+- [x] LinkedIn algorithm resources compiled (`/research/other/linkedin-algorithm-resources.md`)
+- [x] Organic growth case studies written (`/research/other/organic-growth-case-studies.md`)
+- [x] Content calendar templates created (`/research/other/content-calendar-templates.md`)
+- [x] Books, podcasts, and tools reference compiled (`/research/other/books-and-podcasts.md`)
+
+**Last updated:** July 2026 | **Status:** Research phase COMPLETE
